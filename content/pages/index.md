@@ -18,7 +18,7 @@ sections:
       type: ImageBlock
       url: /images/sunflower-892465_1280.png
     badge:
-      label: This is a badge
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
