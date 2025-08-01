@@ -17,7 +17,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/KNVRTR_SF_3.png
+      url: /images/sunflower-892465_1280.png
     badge:
       label: This is a badge
       color: text-primary
