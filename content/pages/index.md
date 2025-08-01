@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: One of a kind hand made art
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Tired of all that empty space on your wall? Fill it in with my unique
+      artwork!
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
