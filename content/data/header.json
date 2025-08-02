@@ -14,7 +14,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/UniquesbyVero.png"
     },
     "primaryLinks": [],
     "secondaryLinks": [],
