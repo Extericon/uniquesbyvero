@@ -128,7 +128,7 @@ sections:
       type: TitleBlock
     subtitle: Let us know what you have in mind.
     text: |
-      We can work something out if my style appeals to you. 
+      We can work something out if my style suits your vision.
     media:
       fields:
         - name: name
