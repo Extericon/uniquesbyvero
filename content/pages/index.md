@@ -21,7 +21,7 @@ sections:
       label: ''
       color: text-primary
       type: Badge
-    elementId: header
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
