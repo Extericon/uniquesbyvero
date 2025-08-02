@@ -41,7 +41,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Home studio where I make my creations.
+    subtitle: Where I make my creations!
     text: ''
     actions: []
     media:
