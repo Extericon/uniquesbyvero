@@ -28,10 +28,10 @@ sections:
         alignItems: center
         flexDirection: row
         padding:
-          - pt-1
-          - pl-1
-          - pb-1
-          - pr-1
+          - pt-6
+          - pl-6
+          - pb-6
+          - pr-6
         justifyContent: center
   - type: GenericSection
     title:
