@@ -159,7 +159,7 @@ sections:
       text: Need a custom piece?
       color: text-dark
       type: TitleBlock
-    subtitle: Let us know what you have in mind.
+    subtitle: Let me know what you have in mind.
     text: |
       We can work something out if my style suits your vision.
     media:
