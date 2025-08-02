@@ -43,7 +43,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Spill painting 1
+        title: Space Sandy
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
