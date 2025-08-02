@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: One of a kind hand made art
     text: >
-      Tired of all that empty space on your wall? Fill it in with my unique
-      artwork!
+      Tired of all that empty space on your wall? Fill it in with some of my
+      ***unique*** artwork!
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
