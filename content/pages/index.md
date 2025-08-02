@@ -2,15 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - type: GenericSection
     title:
       text: Welcome to Uniques by Vero!
