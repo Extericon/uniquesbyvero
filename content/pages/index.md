@@ -80,7 +80,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Caramel Dream
         subtitle: $117
         image:
           type: ImageBlock
