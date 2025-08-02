@@ -16,7 +16,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/sunflower-892465_1280.png
+      url: /images/sunflower-small.png
     badge:
       label: ''
       color: text-primary
