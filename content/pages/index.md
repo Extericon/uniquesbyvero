@@ -126,7 +126,7 @@ sections:
       text: Need a custom piece?
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Let us know what you have in mind.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
