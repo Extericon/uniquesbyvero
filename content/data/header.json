@@ -19,7 +19,7 @@
     "styles": {
         "self": {
             "padding": [
-                "pl-2"
+                "pl-0"
             ]
         }
     }
