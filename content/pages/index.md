@@ -35,7 +35,7 @@ sections:
         justifyContent: center
   - type: GenericSection
     title:
-      text: My Studio Tour
+      text: Studio Tour
       color: text-dark
       styles:
         self:
