@@ -43,7 +43,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Space Sandy
+        title: Astral Sands
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
