@@ -108,7 +108,7 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Studio Tour
+      text: Works in Progress
       color: text-dark
       styles:
         self:
