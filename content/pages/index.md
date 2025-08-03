@@ -16,7 +16,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/butterfly.jpg
+      url: /images/butterfly_smaller.jpg
     badge:
       label: ''
       color: text-primary
