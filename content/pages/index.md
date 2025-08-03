@@ -7,7 +7,7 @@ sections:
       text: Welcome to Uniques by Vero!
       color: text-dark
       type: TitleBlock
-    subtitle: 'One of a kind, wind chimes, wall art for backyards and pools'
+    subtitle: 'One of a kind; wall art, wind chimes, outdoor art for backyards and pools'
     text: >
       Tired of all that empty space on your wall? Fill it in with some of my
       ***unique*** artwork!
@@ -16,7 +16,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/butterfly.jpg
+      url: /images/butterfly_smaller.jpg
     badge:
       label: ''
       color: text-primary
