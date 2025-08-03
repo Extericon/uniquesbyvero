@@ -1,4 +1,5 @@
 {
     "titleSuffix": "Uniques By Vero",
-    "type": "Config"
+    "type": "Config",
+    "header": "content/data/header.json"
 }
