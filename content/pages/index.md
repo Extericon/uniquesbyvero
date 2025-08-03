@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Welcome to Uniques by Vero!
+      text: Welcome to Uniques <em>by</em> Vero!
       color: text-dark
       type: TitleBlock
     subtitle: 'One of a kind; wall art, wind chimes, outdoor art for backyards and pools'
