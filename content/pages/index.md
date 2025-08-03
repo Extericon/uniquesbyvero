@@ -43,7 +43,7 @@ sections:
           textAlign: left
     items:
       - type: FeaturedItem
-        title: Space Sandy
+        title: Astral Sands
         subtitle: $ 88 – $ 176
         image:
           type: ImageBlock
@@ -108,18 +108,27 @@ sections:
         textAlign: center
   - type: GenericSection
     title:
-      text: Studio Tour
+      text: Works in Progress
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Where I make my creations!
+    subtitle: How it's made.
     text: ''
     actions: []
+    elementId: null
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
     media:
+      type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /images/WIP.mp4
       autoplay: true
       loop: true
       muted: true
@@ -136,15 +145,6 @@ sections:
           borderStyle: solid
           borderWidth: 1
           borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
