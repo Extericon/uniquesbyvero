@@ -1,7 +1,6 @@
 {
     "footer": "content/data/footer.json",
     "titleSuffix": "Uniques By Vero",
-    "defaultSocialImage": "/images/main-hero.jpg",
     "type": "Config",
     "header": "content/data/header.json"
 }
