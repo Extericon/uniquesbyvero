@@ -114,7 +114,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Where I make my creations!
+    subtitle: How it's made.
     text: ''
     actions: []
     elementId: null
