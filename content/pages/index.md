@@ -7,7 +7,7 @@ sections:
       text: Welcome to Uniques by Vero!
       color: text-dark
       type: TitleBlock
-    subtitle: 'One of a kind, authentic, hand made art'
+    subtitle: 'One of a kind, wind chimes, authentic, hand made art'
     text: >
       Tired of all that empty space on your wall? Fill it in with some of my
       ***unique*** artwork!
