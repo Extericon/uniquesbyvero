@@ -18,7 +18,7 @@ sections:
       type: ImageBlock
       url: /images/butterfly_smaller.jpg
     badge:
-      label: each piece one of a kind no prints
+      label: each piece is one of a kind - no prints
       color: text-primary
       type: Badge
     elementId: ''
