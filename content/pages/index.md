@@ -18,7 +18,7 @@ sections:
       type: ImageBlock
       url: /images/butterfly_smaller.jpg
     badge:
-      label: ''
+      label: each piece one of a kind no prints
       color: text-primary
       type: Badge
     elementId: ''
@@ -206,7 +206,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: Contact Me
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
